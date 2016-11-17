@@ -1,0 +1,77 @@
+body {
+width: 100%;
+}
+
+
+/*-------------------------------------------HEADER*/
+header ul {
+	list-style: none;
+	position: relative;
+	top: 40px;
+	left: 450px;
+
+}
+header ul li {
+	display: inline-block;
+	}
+header ul li a {
+	color: black;
+	text-decoration: none;
+	padding: 0 20px;
+	font-size: 15px; }
+/* -------------------------------------HERO SECTION*/
+
+.banner {
+	width: 1300px;
+	height: 600px; }
+.logo {
+	position: relative;
+	left: 600px;
+	bottom: -90px; }
+.hero h2 {
+	color: white;
+	position: relative;
+	bottom: 200px;
+	left: 600px;}
+.hero p {
+	width: 400px;
+	font-size: 15px;
+	color: white;
+text-align: center;
+	margin-left: 450px;
+	position: relative;
+	bottom: 200px;
+	border: 2px solid purple;
+	background: rgba(0, 0, 0, 0.3);
+}
+
+/*----------------------------------------ABOUT ME*/
+.ABOUT {
+	margin: 0 60px;
+position: relative;
+left: 50px;
+width: 1500px;
+}
+
+
+.ABOUT img {
+  width: 200px;
+  height: 220px;
+  margin-left: 50px;
+  border: 2px solid purple;
+  padding: 3px; }
+
+ .ABOUT h3 {
+ 	color: purple;
+ 	margin-left: 300px;
+ 	position: relative;
+ 	bottom: 300px;
+ 	text-decoration: underline; }
+
+ .ABOUT p {
+ 	margin-left: 340px;
+ 	position: relative;
+     bottom: 260px;
+     border: 1px solid purple;
+     padding: 30px;
+ } 
