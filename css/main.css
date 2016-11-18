@@ -8,7 +8,7 @@ header ul {
 	list-style: none;
 	position: relative;
 	top: 40px;
-	left: 450px;
+	left: 420px;
 
 }
 header ul li {
@@ -73,5 +73,53 @@ width: 1500px;
  	position: relative;
      bottom: 260px;
      border: 1px solid purple;
-     padding: 30px;
- } 
+     padding: 30px; } 
+/*----------------------------------------FAVORITES*/
+.img-fav h3 {
+	color: purple;
+	text-decoration: underline;
+	position: relative;
+	bottom: 60px ; 
+	left: 350px;
+}
+
+.img-fav {
+	width: 80%;
+	position: relative;
+	left: 50px;
+	bottom: 70px;
+	border: rgba(0, 0, 0, 0.3);
+
+	 }
+
+.img-fav img {
+	display: inline-block; 
+	width:100%;
+	padding: 2px;
+	margin: 0 50px;
+	border-radius: 500px; 
+	border: 1px solid purple;
+	 }
+
+
+.fav4 {
+	height: 240px; }
+/*----------------------------------------------CONTACT*/
+footer {
+	background: rgba(70, 6, 137, 0.4); }
+
+footer div h3 {
+	color: purple;
+	text-decoration: underline;
+	margin-left: 500px; 
+padding-top: 20px; }
+
+footer ul {
+	list-style: none;
+	position: relative;
+	left: 410px; }
+
+footer ul li {
+	display: inline-block;
+	padding-bottom: 20px; }
+
